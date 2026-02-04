@@ -22,4 +22,3 @@ AMDRP: adaptive drug feature fusion and multihead bidirectional cross-attention 
 - sklearn == 0.24.2
 - Numpy == 1.19.2
 - Pandas == 1.3.4
-- 
